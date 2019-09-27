@@ -12,3 +12,13 @@ values (pixel intensity ranges from 0 to 255). It is thus an example of a multio
 The line between classification and regression is sometimes blurry, such as in this example. Arguably, predicting pixel intensity is more
 akin to regression than to classification. Moreover, multioutput systems are not limited to classification tasks; you could even have 
 a system that outputs multiple labels per instance, including both class labels and value labels.
+
+
+Pre-requesite: Please complete below hands on seriarly
+
+
+https://github.com/vikash00011/BinaryClassification
+
+https://github.com/vikash00011/MulticlassClassification
+
+https://github.com/vikash00011/MultilabelClassification
